@@ -1,2 +1,3 @@
 # my-first-repository-public
-My first public repository
+
+This is my first public repository
